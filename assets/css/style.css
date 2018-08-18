@@ -25,7 +25,13 @@ header {
 }
 
 h1 {
+    border-bottom: 2px solid #ccc;
+    padding-bottom: 20px;
     color: #4aaaa5;
+}
+
+img {
+    float: left;
 }
 
 div {
