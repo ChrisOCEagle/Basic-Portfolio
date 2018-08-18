@@ -9,6 +9,7 @@ body {
 header {
     background: #fff;
     border-bottom: 2px solid #ccc;
+    margin-bottom: 30px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     float: left;
 }
@@ -52,10 +53,18 @@ section {
     border: #ddd;
 }
 
+#submit {
+    border: #4aaaa5;
+    padding: 10px 25px;
+    background: #4aaaa5;
+    color: white;
+}
+
 footer {
     background: #666;
     color: #ccc;
     border-top: 5px solid #4aaaa5;
+    margin-top: 100px;
     padding: 20px 0 0 0;
     text-align: center;
 }
